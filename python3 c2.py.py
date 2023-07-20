@@ -13,7 +13,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 git clone 
-cd ZxCDDoS/
+cd Hridoy
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
