@@ -12,7 +12,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone 
+git clone https://github.com/Hridoy99a/Hridoy.git
 cd Hridoy
 npm i requests
 npm i https-proxy-agent
